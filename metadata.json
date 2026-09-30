@@ -1,0 +1,6 @@
+{
+  "name": "Audit Tool - BP",
+  "description": "SAP Business Partner change audit report cleaner, duplicate remover, country prioritizer, and team member lookup tool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
